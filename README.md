@@ -5,7 +5,7 @@ It classifies images of cats and dogs using a convolutional neural network (CNN)
 
 ## Dataset
 The dataset used is the Cats and Dogs dataset from Kaggle:  
-[Download here]((https://www.kaggle.com/datasets/tongpython/cat-and-dog))
+[Download here](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
 
 ## Requirements
 - Python 3.x
