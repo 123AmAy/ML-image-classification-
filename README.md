@@ -15,4 +15,6 @@ The dataset used is the Cats and Dogs dataset from Kaggle:
 
 ## How to Run
 1. Clone the repository:
+2. Run the code in jupyter by importing the datasets from the above provided link or any other link 
+
 
